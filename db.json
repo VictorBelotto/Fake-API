@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Smartphone",
+      "descricao": "Um smartphone avançado com tela de alta resolução e câmera de última geração.",
+      "valor": 1200.00
+    },
+    {
+      "id": 2,
+      "nome": "Notebook",
+      "descricao": "Um notebook leve e potente, ideal para trabalho e entretenimento.",
+      "valor": 1800.00
+    },
+    {
+      "id": 3,
+      "nome": "Fone de Ouvido Bluetooth",
+      "descricao": "Um fone de ouvido sem fio com cancelamento de ruído, proporcionando uma experiência sonora imersiva.",
+      "valor": 150.00
+    },
+    {
+      "id": 4,
+      "nome": "Câmera Digital",
+      "descricao": "Uma câmera digital de alta resolução, perfeita para capturar momentos especiais.",
+      "valor": 700.00
+    },
+    {
+      "id": 5,
+      "nome": "Smartwatch",
+      "descricao": "Um relógio inteligente com monitor de atividades físicas e notificações inteligentes.",
+      "valor": 250.00
+    },
+    {
+      "id": 6,
+      "nome": "Caixa de Som Bluetooth",
+      "descricao": "Uma caixa de som portátil com conexão Bluetooth, ideal para ouvir música em qualquer lugar.",
+      "valor": 80.00
+    }
+  ]
+}
