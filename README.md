@@ -36,3 +36,11 @@ Para iniciar a Fake API manualmente, utilize o seguinte comando:
 
 ```bash
 json-server --watch db.json --port 3001
+```
+
+### Resultado
+![Tela Fake API](https://github.com/VictorBelotto/Fake-API/assets/108822052/7846c366-c9f7-48e9-8cf0-eeacb704eb16)
+
+
+
+
